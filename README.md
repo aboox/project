@@ -126,15 +126,10 @@ The Airplane Ticket Booking System can integrate with various applications. Here
 - For more detailed information about the booking process, visit [Travel Agency Resources](#). 🌐
 - For security information, refer to [Payment Security Best Practices](#). 🔒
 
----
-
-## Emphasis
-
-Utilizing *italics*, **bold text**, ~~strikethrough~~, subscript, and superscript throughout enhances the clarity of this documentation.
 
 ---
 
 ## Image
 
-![Airplane Ticket Booking System User Interface](airplane_ticket_booking_screenshot.png)  
+![Airplane Ticket Booking System User Interface]([airplane_ticket_booking_screenshot.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blade.com%2F&psig=AOvVaw3l1OMPvhO1HB9QXU6juxHd&ust=1730315369543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjhqZOltIkDFQAAAAAdAAAAABAE))  
 *Alt text: Screenshot of the Airplane Ticket Booking System user interface showcasing flight options and booking details.* 🖼️
